@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Gabriel Barbosa
-<font size="4">
+<font size="3">
 
 ### I'm in my last year of college and during the course I have learned/worked with these technologies:
 
