@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Gabriel Barbosa
 <font size="4">
 
-### I'm in my last year of college and during the course I have learned/worked with these technologies:
+### I'm in my last year of college and during the course I have worked with these technologies:
 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
