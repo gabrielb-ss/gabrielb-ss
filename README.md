@@ -22,3 +22,5 @@
 ### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-gbarbosad.ss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gbarbosad.ss@gmail.com)](mailto:gbarbosad.ss@gmail.com)
 </font>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielb-ss&theme=dark&hide_border=true)](https://git.io/streak-stats)
