@@ -1,5 +1,5 @@
 # Hello there 👋 I'm Gabriel Barbosa
-<font size="4">
+<font size="3">
 
 ### I'm in my last year of college and during the course I have worked with these technologies:
 
@@ -12,7 +12,6 @@
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Godot_Engine-00599C?style=for-the-badge&logo=java&logoColor=white)
-
 
 ### ✍ I’m currently learning:
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
