@@ -14,9 +14,12 @@
 ![image](https://img.shields.io/badge/Godot_Engine-00599C?style=for-the-badge&logo=java&logoColor=white)
 
 ### ✍ I’m currently learning:
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
 
+### 🧑‍💻 Projects I'm working on:
+  * [My-Portfolio](https://github.com/gabrielb-ss/my-portfolio)
+  
 ### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-gbarbosad.ss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gbarbosad.ss@gmail.com)](mailto:gbarbosad.ss@gmail.com)
 </font>
