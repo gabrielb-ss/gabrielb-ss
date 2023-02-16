@@ -24,4 +24,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-gbarbosad.ss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gbarbosad.ss@gmail.com)](mailto:gbarbosad.ss@gmail.com)
 </font>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielb-ss&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielb-ss&theme=navy-gear&hide_border=true&border_radius=8&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
