@@ -18,7 +18,7 @@
 <br>
 
 ### 🧑‍💻 Projects I'm working on:
-  * [My-Portfolio](https://github.com/gabrielb-ss/my-portfolio)
+  * [Responsive-carousel](https://github.com/gabrielb-ss/responsive-carousel)
   
 ### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-gbarbosad.ss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gbarbosad.ss@gmail.com)](mailto:gbarbosad.ss@gmail.com)
