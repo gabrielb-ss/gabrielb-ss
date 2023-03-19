@@ -24,5 +24,5 @@
   * [Responsive-carousel](https://github.com/gabrielb-ss/responsive-carousel)
   
 ### 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-gbarbosad.ss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gbarbosad.ss@gmail.com)](mailto:gbarbosad.ss@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pro.gabrielbss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.gabrielbss@gmail.com)](mailto:pro.gabrielbss@gmail.com)
 </font>
