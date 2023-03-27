@@ -19,9 +19,6 @@
 ### ✍ I’m currently learning:
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
 <br>
-
-### 🧑‍💻 Projects I'm working on:
-  * [Responsive-carousel](https://github.com/gabrielb-ss/responsive-carousel)
   
 ### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-pro.gabrielbss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.gabrielbss@gmail.com)](mailto:pro.gabrielbss@gmail.com)
