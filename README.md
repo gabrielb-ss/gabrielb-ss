@@ -1,7 +1,7 @@
 # Hello there 👋
 <font size="3">
 
-### I'm in my last year of college and during the course I worked with these technologies
+### In senior year of Information Systems 
 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
