@@ -1,25 +1,21 @@
-# Hello there 👋
-<font size="3">
+### 👋🏻 Olá! me chamo Gabriel Barbosa, 
+Desenvolvedor front-end em busca da primeira oportunidade profissional. 
 
-### In senior year of Information Systems 
+Estou no último ano da faculdade de Sistemas de Informação e tenho experiência em desenvolvimento web com as seguintes tecnologias:
 
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Godot_Engine-00599C?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-005E86?logo=supabase&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=white&style=flat)
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
- 
-### ✍ I’m currently learning:
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB)
-<br>
-  
-### 📫 How to reach me:
+### 🧑🏻‍💻 Experiência
+Atualmente, sou voluntário em um projeto privado de redes sociais focado no compartilhamento de links. Atuo no desenvolvimento front-end com Next.js, TypeScript e Material UI, e também no back-end com o Supabase e SQL.
+
+### 📫 Contato
+
+Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou contratação. Você pode me encontrar através do seguinte e-mail:
+
 [![Gmail Badge](https://img.shields.io/badge/-pro.gabrielbss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.gabrielbss@gmail.com)](mailto:pro.gabrielbss@gmail.com)
 </font>
