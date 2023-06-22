@@ -1,4 +1,4 @@
-### 👋🏻 Olá! me chamo Gabriel Barbosa, 
+### 👋🏻 Olá! Me chamo Gabriel Barbosa 
 Desenvolvedor front-end em busca da primeira oportunidade profissional. 
 
 Estou no último ano da faculdade de Sistemas de Informação e tenho experiência em desenvolvimento web com as seguintes tecnologias:
