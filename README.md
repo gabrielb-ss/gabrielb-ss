@@ -11,7 +11,7 @@ Estou no último ano da faculdade de Sistemas de Informação e tenho experiênc
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=white&style=flat)
 
 ### 🧑🏻‍💻 Experiência
-Atualmente trabalho em um projeto privado de Sistema de gerenciamento de processos públicos. Nele, atuo no desenvolvimento front-end com Next.js, TypeScript e Tailwind, e também no back-end com o Supabase e SQL.
+Atualmente trabalho em um projeto privado de sistema de gerenciamento de processos públicos. Nele, atuo no desenvolvimento front-end com Next.js, TypeScript e Tailwind, e também no back-end com o Supabase e SQL.
 
 ### 📫 Contato
 
