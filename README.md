@@ -14,7 +14,6 @@ Estou no último ano da faculdade de Sistemas de Informação e tenho experiênc
 Atualmente trabalho em um projeto privado de sistema de gerenciamento de processos públicos. Nele, atuo no desenvolvimento front-end com Next.js, TypeScript e Tailwind, e também no back-end com o Supabase e SQL.
 
 ### 📫 Contato
-
 Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou contratação. Você pode me encontrar através do seguinte e-mail:
 
 [![Gmail Badge](https://img.shields.io/badge/-pro.gabrielbss@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.gabrielbss@gmail.com)](mailto:pro.gabrielbss@gmail.com)
