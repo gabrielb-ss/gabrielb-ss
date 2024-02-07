@@ -1,5 +1,5 @@
 ### 👋🏻 Olá! Me chamo Gabriel Barbosa, 
-Sou um desenvolvedor front-end. 
+Sou um desenvolvedor front-end.  
 
 Estou no último ano da faculdade de Sistemas de Informação e tenho experiência em desenvolvimento web com as seguintes tecnologias:
 
