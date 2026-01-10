@@ -9,7 +9,7 @@ Sou um desenvolvedor front-end formado em Sistemas de Informação e tenho exper
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=white&style=flat)
 
 ### 🧑🏻‍💻 Experiência
-Atualmente trabalho em um projeto privado de sistema de gerenciamento de processos públicos. Nele, atuo no desenvolvimento front-end com Next.js, TypeScript e Tailwind, e também no back-end com o Supabase e SQL.
+Atualmente trabalho em um sistema de cantina escolar. Nele, atuo no desenvolvimento front-end com Next.js, TypeScript e Tailwind, e também no back-end com o Supabase e SQL.
 
 ### 📫 Contato
 Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou contratação. Você pode me encontrar através do seguinte e-mail:
