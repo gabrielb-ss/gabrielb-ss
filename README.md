@@ -1,5 +1,5 @@
 ### 👋🏻 Olá! Me chamo Gabriel Barbosa, 
-Sou um desenvolvedor front-end formado em Sistemas de Informação e tenho experiência em desenvolvimento web com as seguintes tecnologias:
+Sou um desenvolvedor de sistemas formado em Sistemas de Informação e tenho experiência com as seguintes tecnologias:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
